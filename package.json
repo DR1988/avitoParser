@@ -13,19 +13,22 @@
     "local-devices": "^3.0.0",
     "node-fetch": "^2.6.0",
     "node-html-parser": "^1.2.13",
+    "node-telegram-bot-api": "^0.40.0",
     "nodemon": "^1.18.10",
     "promise": "^8.0.3"
   },
   "devDependencies": {
     "@types/jsdom": "^16.1.1",
     "@types/node": "^12.12.31",
+    "@types/node-telegram-bot-api": "^0.40.2",
     "jsdom": "^16.2.1",
     "ts-node": "^8.0.3",
     "typescript": "^3.4.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ts": "nodemon -x ts-node ./parser.ts"
+    "ts": "nodemon -x ts-node ./parser.ts",
+    "telega": "nodemon -x ts-node ./telegaBot.ts"
   },
   "author": "",
   "license": "ISC"

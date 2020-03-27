@@ -3,7 +3,7 @@
     "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_50_m_3544_et._1900630293\" target=\"_blank\" title=\"2-к квартира",
     "площадь": " 50 м²",
     "этаж": " 35/44 эт. в Москве\"",
-    "price": " 130 000  ₽ в месяц "
+    "price": " 120 000  ₽ в месяц "
   },
   {
     "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_70.2_m_515_et._1899421445\" target=\"_blank\" title=\"2-к квартира",
@@ -16,6 +16,48 @@
     "площадь": " 55 м²",
     "этаж": " 2/4 эт. в Москве\"\nhttps://avito.ru/flatsofmoscow?gdlkerfdnwq=102&amp;shopId=133463&amp;page_from=from_items_list&amp;iid=1896355032\" target=\"_blank\"",
     "price": " 60 000  ₽ в месяц "
+  },
+  {
+    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_66_m_1617_et._1906352658\" target=\"_blank\" title=\"2-к квартира",
+    "площадь": " 66 м²",
+    "этаж": " 16/17 эт. в Москве\"",
+    "price": " 50 000  ₽ в месяц "
+  },
+  {
+    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_43_m_55_et._1871324759\" target=\"_blank\" title=\"2-к квартира",
+    "площадь": " 43 м²",
+    "этаж": " 5/5 эт. в Москве\"",
+    "price": " 43 000  ₽ в месяц "
+  },
+  {
+    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_60_m_416_et._1471086150\" target=\"_blank\" title=\"2-к квартира",
+    "площадь": " 60 м²",
+    "этаж": " 4/16 эт. в Москве\"",
+    "price": " 50 000  ₽ в месяц "
+  },
+  {
+    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_45_m_25_et._1807719843\" target=\"_blank\" title=\"2-к квартира",
+    "площадь": " 45 м²",
+    "этаж": " 2/5 эт. в Москве\"",
+    "price": " 50 000  ₽ в месяц "
+  },
+  {
+    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_70_m_1426_et._1900195856\" target=\"_blank\" title=\"2-к квартира",
+    "площадь": " 70 м²",
+    "этаж": " 14/26 эт. в Москве\"",
+    "price": " 120 000  ₽ в месяц "
+  },
+  {
+    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_42.2_m_1617_et._1894643281\" target=\"_blank\" title=\"2-к квартира",
+    "площадь": " 42.2 м²",
+    "этаж": " 16/17 эт. в Москве\"",
+    "price": " 36 200  ₽ в месяц "
+  },
+  {
+    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_50.5_m_417_et._1902446656\" target=\"_blank\" title=\"2-к квартира",
+    "площадь": " 50.5 м²",
+    "этаж": " 4/17 эт. в Москве\"",
+    "price": " 43 000  ₽ в месяц "
   },
   {
     "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_60_m_1226_et._1900098164\" target=\"_blank\" title=\"2-к квартира",
@@ -36,18 +78,6 @@
     "price": " 47 000  ₽ в месяц "
   },
   {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_58_m_1316_et._1907767223\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 58 м²",
-    "этаж": " 13/16 эт. в Москве\"",
-    "price": " 60 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_62_m_1719_et._1890445796\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 62 м²",
-    "этаж": " 17/19 эт. в Москве\"",
-    "price": " 23 500  ₽ в месяц "
-  },
-  {
     "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_52.1_m_312_et._1115993743\" target=\"_blank\" title=\"2-к квартира",
     "площадь": " 52.1 м²",
     "этаж": " 3/12 эт. в Москве\"",
@@ -64,18 +94,6 @@
     "площадь": " 42 м²",
     "этаж": " 4/5 эт. в Москве\"",
     "price": " 40 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_42_m_818_et._835473370\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 42 м²",
-    "этаж": " 8/18 эт. в Москве\"",
-    "price": " 48 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_60_m_46_et._1914470683\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 60 м²",
-    "этаж": " 4/6 эт. в Москве\"",
-    "price": " 63 000  ₽ в месяц "
   },
   {
     "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_42_m_25_et._1905619758\" target=\"_blank\" title=\"2-к квартира",
@@ -178,65 +196,5 @@
     "площадь": " 58 м²",
     "этаж": " 20/24 эт. в Москве\"",
     "price": " 45 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_80_m_1527_et._1828982811\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 80 м²",
-    "этаж": " 15/27 эт. в Москве\"",
-    "price": " 100 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_32.3_m_18_et._1899019775\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 32.3 м²",
-    "этаж": " 1/8 эт. в Москве\"",
-    "price": " 38 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_105_m_257_et._1912035020\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 105 м²",
-    "этаж": " 2/57 эт. в Москве\"\nhttps://avito.ru/savills?gdlkerfdnwq=102&amp;shopId=67180&amp;page_from=from_items_list&amp;iid=1912035020\" target=\"_blank\"",
-    "price": " 180 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_52_m_89_et._1911321371\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 52 м²",
-    "этаж": " 8/9 эт. в Москве\"",
-    "price": " 33 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_43_m_112_et._1916267532\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 43 м²",
-    "этаж": " 1/12 эт. в Москве\"\nhttps://avito.ru/kv-nasutki?gdlkerfdnwq=102&amp;shopId=155478&amp;page_from=from_items_list&amp;iid=1916267532\" target=\"_blank\"",
-    "price": " 35 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_100_m_2731_et._1797706842\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 100 м²",
-    "этаж": " 27/31 эт. в Москве\"",
-    "price": " 100 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_56_m_1131_et._1906648365\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 56 м²",
-    "этаж": " 11/31 эт. в Москве\"",
-    "price": " 95 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_55_m_1031_et._1893953764\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 55 м²",
-    "этаж": " 10/31 эт. в Москве\"\nhttps://avito.ru/i79711912?gdlkerfdnwq=102&amp;shopId=165015&amp;page_from=from_items_list&amp;iid=1893953764\" target=\"_blank\"",
-    "price": " 90 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_52.8_m_1214_et._1862407271\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 52.8 м²",
-    "этаж": " 12/14 эт. в Москве\"",
-    "price": " 60 000  ₽ в месяц "
-  },
-  {
-    "link": "https://avito.ru/moskva/kvartiry/2-k_kvartira_52.5_m_1212_et._1894226879\" target=\"_blank\" title=\"2-к квартира",
-    "площадь": " 52.5 м²",
-    "этаж": " 12/12 эт. в Москве\"",
-    "price": " 41 000  ₽ в месяц "
   }
 ]
