@@ -11,7 +11,7 @@
     "express": "^4.16.4",
     "libnmap": "^0.4.19",
     "local-devices": "^3.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "node-html-parser": "^1.2.13",
     "node-telegram-bot-api": "^0.40.0",
     "nodemon": "^1.18.10",
